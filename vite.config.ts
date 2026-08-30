@@ -8,6 +8,3 @@ export default defineConfig({
     viteReact()
   ],
 });
-git add vite.config.ts
-git commit -m "fix: remove redundant nitro plugin from vite config"
-git push origin main
